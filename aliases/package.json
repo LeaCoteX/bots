@@ -1,0 +1,74 @@
+{
+  "_from": "aliases",
+  "_id": "aliases@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-dxqapejSuD7uGK6WGVRdykv9VFYj6avunry0f7w4l3tkGM9DZqNMutYC2M0qoE4ggwoiqyAp/yyJCuc9WaaXtg==",
+  "_location": "/aliases",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "aliases",
+    "name": "aliases",
+    "escapedName": "aliases",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/aliases/-/aliases-1.0.0.tgz",
+  "_shasum": "1f18e028dd78463a9aaac61a9808437534b0e507",
+  "_spec": "aliases",
+  "_where": "C:\\Users\\Windows\\Desktop\\LeaBOT",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/aliases/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "parse-help": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "Parse flag aliases in CLI help output",
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/sindresorhus/aliases#readme",
+  "keywords": [
+    "parse",
+    "help",
+    "cli",
+    "argv",
+    "command-line",
+    "man",
+    "flags",
+    "arguments",
+    "alias",
+    "aliases",
+    "short"
+  ],
+  "license": "MIT",
+  "name": "aliases",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/aliases.git"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "version": "1.0.0"
+}
